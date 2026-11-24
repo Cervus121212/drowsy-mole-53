@@ -1,21 +1,13 @@
 # Everyday Things, Two Lines, Longer Run
 
-[![make.fun](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![make.fun · u-suga-everyday-things-two-lines-longer-run-f8734479](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![make.fun · rank](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/rank.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![make.fun · reward](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/reward.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
 
-Entry for the [Everyday Things, Two Lines, Longer Run](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479) bounty on [make.fun](https://make.fun).
+Entry for the make.fun bounty "Everyday Things, Two Lines, Longer Run": a two-line analogy for an everyday object, plus why the analogy works.
 
-## The entry
+The entry compares a vacuum cleaner to a hungry elephant trunk. The hose really does suck things up like a trunk and store them in a bag like a belly — but the analogy breaks in one place: an elephant chooses what to eat, while the vacuum swallows your sock and anything else lying on the floor.
 
-> A vacuum cleaner is a hungry elephant trunk that slurps dust and crumbs off the floor and swallows them into its belly.
->
-> It works because the hose really does suck things up like a trunk and store them in a bag like a belly, but it leaves out that an elephant chooses what to eat, while the vacuum swallows your sock and anything else lying on the floor.
+Run `main.py` with `MAKEFUN_OUTPUT_DIR` set; it writes `entry.txt` (two lines, UTF-8, no trailing newline).
 
-Two lines. Line 1 explains a vacuum cleaner to a 10-year-old through one concrete, surprising analogy a child can test at home: the hose is an elephant trunk, the machine a hungry animal. Line 2 is honest about what the analogy maps (the hose sucking like a trunk, the bag storing like a belly) and what it leaves out (an elephant chooses its food, a vacuum swallows your sock and anything else on the floor).
-
-## How it runs
-
-`main.py` (Python 3, standard library only) writes the two lines to `$MAKEFUN_OUTPUT_DIR/entry.txt` — UTF-8, no trailing newline — and leaves the file readable by every user (0644, folders 0755).
-
-```sh
-MAKEFUN_OUTPUT_DIR=/output python3 main.py
-```
+One metaphor, kept concrete enough that a ten-year-old can test it at home with the real thing.
